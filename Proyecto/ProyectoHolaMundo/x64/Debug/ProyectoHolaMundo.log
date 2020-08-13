@@ -1,0 +1,6 @@
+﻿  GameMenu.cpp
+C:\Users\Dell\Desktop\Proyecto\ProyectoHolaMundo\GameMenu.cpp(501,17): warning C4101: 'p': unreferenced local variable
+  HolaMundo.cpp
+  Rueda.cpp
+  Generating Code...
+  ProyectoHolaMundo.vcxproj -> C:\Users\Dell\Desktop\Proyecto\x64\Debug\ProyectoHolaMundo.exe
